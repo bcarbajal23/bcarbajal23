@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello there, I'm Carlos 👋
 
-<!--
-**bcarbajal23/bcarbajal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Software Engineer** and a former instructor
 
-Here are some ideas to get you started:
+### Skills 
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,python,java,processing,p5js,vite,html,scss,css,vscode,git,github,linux,apple,windows&perline=8)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies
+Home Barista (I enjoy a good cup of ☕)  
+Playing RPG, action-adventure, FPS videogames 🎮  
+Powerlifting/Weight traing 🏋️‍♂️  
+Drawing 🎨  
+Cooking 🧑‍🍳
+Anything tech related 👨‍💻 
