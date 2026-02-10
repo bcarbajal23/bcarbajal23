@@ -12,3 +12,6 @@ Powerlifting/Weight traing 🏋️‍♂️
 Drawing 🎨  
 Cooking 🧑‍🍳
 Anything tech related 👨‍💻 
+
+**Soft Skills**  
+Fluent in English and Spanish
