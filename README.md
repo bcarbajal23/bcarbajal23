@@ -8,7 +8,7 @@ I am a **Full-Stack Software Engineer** and a former instructor
 ### Hobbies
 Home Barista (I enjoy a good cup of ☕)  
 Playing RPG, action-adventure, FPS videogames 🎮  
-Powerlifting/Weight traing 🏋️‍♂️  
+Powerlifting/Weight training 🏋️‍♂️  
 Drawing 🎨  
 Cooking 🧑‍🍳
 Anything tech related 👨‍💻 
